@@ -1,0 +1,13 @@
+2025-09-09 01:21:18 - The CPU usage: 4.2% |  idle: 97.8%
+2025-09-09 01:21:18 - mem usage is normal: 13.00%
+2025-09-09 01:21:18 - Disk usage is normal: tmpfs(1%)
+2025-09-09 01:21:18 - Disk usage is normal: efivarfs(11%)
+2025-09-09 01:21:18 - Disk usage is normal: /dev/mapper/ubuntu--vg-ubuntu--lv(40%)
+2025-09-09 01:21:18 - Disk usage is normal: tmpfs(0%)
+2025-09-09 01:21:18 - Disk usage is normal: tmpfs(1%)
+2025-09-09 01:21:18 - Disk usage is normal: /dev/vda2(12%)
+2025-09-09 01:21:18 - Disk usage is normal: /dev/vda1(1%)
+2025-09-09 01:21:18 - Disk usage is normal: tmpfs(1%)
+2025-09-09 01:21:18 - ===================================================================================
+2025-09-09 01:21:18 - The total high usage processes: 0
+2025-09-09 01:21:18 - ===================================================================================
